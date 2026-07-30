@@ -1,260 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://deungchon-song-zone.link-hub.org/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://deungchon-song-zone.link-hub.org/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://deungchon-song-zone.link-hub.org/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/blog.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/field_note-001-1cct8pj.html</loc>
-    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/field_note-002-ow2qlr.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/guide-002-1cct8pj.html</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://deungchon-song-zone.link-hub.org/posts/review-001-ow2qlr.html</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0177.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0178.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0179.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0180.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0181.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0182.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0183.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0184.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0185.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0186.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0187.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0188.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0189.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0190.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0191.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260719-0192.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260721-0260.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260721-0261.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260721-0262.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260721-0263.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0045.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0046.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0047.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0048.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0049.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0050.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0051.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0052.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0053.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0054.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://deungchon-song-zone.link-hub.org/posts/gemini-coverage-20260722-0055.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/guide-002-1cct8pj.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://deungchon-song-zone.link-hub.org/posts/review-001-ow2qlr.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
